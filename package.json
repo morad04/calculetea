@@ -1,5 +1,5 @@
 {
-  "name": "calculetea",
+  "name": "calculetea1",
   "version": "1.0.9",
   "description": "A library helps you calculate the sum of any two numbers.",
   "main": "index.js",
@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/morad04/calculetea.git"
+    "url": "https://github.com/morad04/calculetea1.git"
   },
   "keywords": [
     "calculetea"
@@ -51,7 +51,7 @@
   "author": "morad04",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/morad04/calculetea/issues"
+    "url": "https://github.com/morad04/calculetea1/issues"
   },
-  "homepage": "https://github.com/morad04/calculetea#readme"
+  "homepage": "https://github.com/morad04/calculetea1#readme"
 }
